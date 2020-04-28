@@ -28,3 +28,7 @@ The `src/main/java/com/mode/ryankennedy/BigQueryJdbcNpeReproductionMain.java`
 file contains the executable reproduction. After filling in a few 
 connection configuration bits the `main()` method of that class can be 
 run to trigger the NullPointerException. 
+
+As a useful visual aid, [here is a regular expression debugger](https://regex101.com/r/ZpUN3m/1)
+that's been given both the regular expression being used by the driver and the 
+sample query mentioned above.
