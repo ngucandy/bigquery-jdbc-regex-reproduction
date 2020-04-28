@@ -1,5 +1,7 @@
 # BigQuery JDBC NullPointerException Reproduction
 
+Note: this has been reported via the BigQuery support channels and is now part of ticket [155223254](https://issuetracker.google.com/issues/155223254).
+
 This repo holds code to reproduce a NullPointerException in the 
 BigQuery JDBC driver.
 
