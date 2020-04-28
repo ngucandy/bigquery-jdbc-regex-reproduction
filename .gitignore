@@ -1,0 +1,9 @@
+# IntelliJ IDEA artifacts
+.idea/
+*.iml
+
+# Maven artifacts
+target/
+
+# Downloaded Simba driver artifacts
+lib/
